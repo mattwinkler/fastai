@@ -1,2 +1,2 @@
 # fastai
-Lesson Notes from Jeremey Howards Fastai course
+Lesson Notes from Jeremey Howard's Fastai course
